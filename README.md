@@ -1,5 +1,3 @@
-<h1>Este es mi README</h1>
-
 # 🎁 Amigo Secreto
 
 Este proyecto es una aplicación que permite ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién será el amigo secreto de cada participante.
